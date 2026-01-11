@@ -1,5 +1,7 @@
 # Bombardier-Global-8000-model
-<img width="2700" height="2160" alt="Untitled Project (73)" src="https://github.com/user-attachments/assets/0a160fe2-25c1-4d05-ac74-c586a4ba8ef2" />
+
+<img width="2444" height="1524" alt="The Bombardier Global 8000 Render (19)" src="https://github.com/user-attachments/assets/201d5100-6f59-4163-a3b3-5619d84960c7" />
+
 
 This repository contains a fully modeled, assembled, and rendered CAD representation of the Bombardier Global 8000 ultra-long-range business jet, created entirely in SolidWorks.
 The project focuses on accurate geometry, subsystem modeling, clean assemblies, and high-quality visualization, culminating in motion studies of the jet engines and multiple rendered views of the aircraft.
