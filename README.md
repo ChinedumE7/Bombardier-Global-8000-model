@@ -97,7 +97,8 @@ Rendered Model
 
 Bombardier Global 8000 Business Jet – Rendered Model
 
-<img width="2700" height="2160" alt="Bombardier Global 8000 Render" src="https://github.com/user-attachments/assets/703352fd-bd93-450a-8a0e-69c3a41d15e3" />
+<img width="2700" height="2160" alt="The Bombardier Global 8000 Render (24)" src="https://github.com/user-attachments/assets/b8e09535-4461-4bc3-823b-02922419e840" />
+
 Aircraft Views
 
 Bombardier Global 8000 – Multiple Views
