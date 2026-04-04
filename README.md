@@ -1,4 +1,4 @@
-# Bombardier-Global-8000-model
+# Bombardier-Global-8000-model BUSINESS JET MODEL
 
 <img width="2700" height="2160" alt="The Bombardier Global 8000 Render (30)" src="https://github.com/user-attachments/assets/2962c847-f34c-4cee-ae26-d56463cc8668" />
 
